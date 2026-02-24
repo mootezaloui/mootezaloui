@@ -1,85 +1,148 @@
-<h1 align="center">Hi 👋, I'm Mootez</h1>
-<h3 align="center">Software Engineer · Machine Learning · AI Security</h3>
+<!-- Header with animated typing -->
+<div align="left">
 
-<p align="center">
-I build ML systems — then try to break them before someone else does.
-</p>
+<pre style="font-family: 'Courier New', monospace; line-height: 1;">
+████████████████████████████████████████████████████████████████████
+  ███╗   ███╗ ██████╗  ██████╗ ████████╗███████╗███████╗
+  ████╗ ████║██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝╚══███╔╝
+  ██╔████╔██║██║   ██║██║   ██║   ██║   █████╗    ███╔╝
+  ██║╚██╔╝██║██║   ██║██║   ██║   ██║   ██╔══╝   ███╔╝
+  ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝   ██║   ███████╗███████╗
+  ╚═╝     ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚══════╝
+████████████████████████████████████████████████████████████████████
+</pre>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+ML+%26+AI+Security;I+build+ML+systems+%E2%80%94+then+break+them.;Adversarial+ML+%7C+Secure+AI+Pipelines;If+it+can+be+attacked%2C+I+want+to+know+how." alt="Typing SVG" />
+</a>
 
-## 💫 About Me
+<br/>
 
-🔭 Working on **ML-driven systems & securing AI pipelines**  
-👯 Open to collaborating on **ML, AI safety, adversarial ML**  
-🤝 Interested in **hardening models, data pipelines & inference systems**  
-🌱 Learning **adversarial ML, secure AI architectures & system design**  
-💬 Ask me about **machine learning, AI security, backend systems**  
-⚡ Fun fact: I don’t trust a model until I’ve attacked it  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mootez-aloui-490090211)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mootez.aloui@medtech.tn)
+[![Profile Views](https://komarev.com/ghpvc/?username=mootezaloui&style=flat-square&color=4A90D9&label=Profile+Views)](https://github.com/mootezaloui)
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mootez-aloui-490090211)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mootez.aloui@medtech.tn)
-
----
-
-## 🧠 Focus Areas
-
-- Machine Learning & Deep Learning  
-- AI Security & Adversarial ML  
-- Backend Systems & APIs  
-- Cloud, Infra & Deployment  
-- Automation & Reliability  
+</div>
 
 ---
 
-## 💻 Tech Stack
+## ▸ About
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+I'm a Software Engineer focused on the intersection of **Machine Learning** and **Security** — building robust ML systems and stress-testing them against adversarial scenarios before real-world deployment. My work spans everything from training pipelines to threat modeling AI systems.
 
-### ML / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat)
+I believe production-grade ML isn't just about accuracy metrics — it's about what happens when the model faces inputs it wasn't designed to handle.
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-
-### Cloud / DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+> *"Don't ship what you haven't attacked."*
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mootezaloui&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mootezaloui&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mootezaloui&theme=dark&hide_border=true&layout=compact)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mootezaloui)
+## ▸ Currently Working On
 
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Adversarial ML Research**
+Exploring evasion and poisoning attacks on classification models, with a focus on defense mechanisms that don't tank real-world performance.
+
+</td>
+<td width="50%">
+
+**🔒 Secure AI Pipelines**
+Hardening end-to-end ML workflows — from data ingestion through model serving — against integrity and confidentiality threats.
+
+</td>
+</tr>
+</table>
+
+> Open to collaborating on **ML security, adversarial robustness, and AI safety tooling** — reach out if you're working in this space.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mootezaloui&theme=radical&no-frame=true&no-bg=true)
+## ▸ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mootezaloui&color=0)](https://visitcount.itsvg.in)
+## ▸ GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mootezaloui">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mootezaloui&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mootezaloui&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mootezaloui&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ▸ Contribution Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mootezaloui&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mootezaloui&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mootezaloui&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mootezaloui&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mootezaloui&theme=github_dark&utcOffset=1" />
+
+</div>
+
+---
+
+## ▸ Activity Graph
+
+<div align="center">
+
+[![Mootez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mootezaloui&theme=react-dark&hide_border=true&area=true&color=4A90D9&line=4A90D9&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+*If it processes data, it has an attack surface.*
+
+</div>
