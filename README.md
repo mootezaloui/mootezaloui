@@ -72,7 +72,7 @@ I build ML systems — then try to break them before someone else does.
 ![](https://github-readme-stats.vercel.app/api?username=mootezaloui&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mootezaloui&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mootezaloui&theme=dark&hide_border=true&layout=compact)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mootezaloui)
 
 
 ---
